@@ -18,7 +18,7 @@ Mettre en place ce CRUD pour l’entité « recette » avec les champs suivants 
 - GIT
 
 ## Modalité d'accès :
--lien vers l'api platform: https://127.0.0.1:8000/api/recettes
+-lien vers l'api: https://127.0.0.1:8000/api/recettes
 
 
 
