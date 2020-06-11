@@ -1,7 +1,7 @@
 # KLH_exercice
 
 ## Mis à jour le : 
-- 09.06.2020
+- 11.06.2020
 
 ## Presentation du projet
 Création d'une API de recettes de cuisine sur Symfony 5, dans laquelle on peut ajouter / lister / modifier / supprimer nos propres recettes.
